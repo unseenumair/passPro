@@ -253,7 +253,7 @@ const PassPro = () => {
             <div className="flex items-center justify-center md:justify-start">
               <span>Made with</span>
               <span className="text-red-500 mx-1 text-lg">♥</span>
-              <span>by <a href="https://umairshakoor.vercel.app/" rel="noopener noreferrer" target="_blank" className="footerLink">Umair Shakoor</a></span>
+              <span>by <a href="https://unseenumair.vercel.app/" rel="noopener noreferrer" target="_blank" className="footerLink">Umair Shakoor</a></span>
             </div>
             <div className="text-gray-400">
               &copy; 2025 Pass Pro. All Rights Reserved
